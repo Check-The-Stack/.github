@@ -49,5 +49,5 @@ En Check The Stack queremos que todo quede bien documentado para que más gente 
 <hr>
 
 <div align="center">
-<sub>Check The Stack © 2026 &nbsp;<img src="https://raw.githubusercontent.com/Check-The-Stack/.github/main/check_logo_transparente.png" width="30" alt="Check The Stack"></sub>
+<sub>Check The Stack © 2026 &nbsp;<img src="https://raw.githubusercontent.com/Check-The-Stack/.github/main/check_logo_transparente.png" width="42" alt="Check The Stack"></sub>
 </div>
