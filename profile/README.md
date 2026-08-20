@@ -16,8 +16,7 @@
 <br>
 
 ## En Check The Stack aprender, pero NO a medias, aprender BIEN. 
-Queremos que quede todo documentado para que más gente pueda aprender a programar BIEN, nuestra misión es que el que crea que sabe encuentre material útil, y el que no que tenga un gran camino para aprender de una forma simple y clara. 
-En un mundo donde la información cada vez es más dificil de obtener, y con el miedo a que se pierdan los tokens surge este dilema que trataremos de resolver. Por eso proponemos hacer entre todos una gran documentación sobre varias tecnologias.
+En Check The Stack queremos que todo quede bien documentado para que más gente pueda aprender a programar BIEN. Nuestra misión es simple: que quien ya sabe encuentre material útil para seguir creciendo, y que quien recién arranca tenga un camino claro y simple para aprender. En un mundo donde la buena información es cada vez más difícil de conseguir, y con el miedo de que la IA termine devorándose todo en tokens y dejando cada vez menos conocimiento humano real y accesible, nos proponemos resolver ese dilema entre todos, construyendo una gran documentación colaborativa sobre distintas tecnologías.
 
 <hr>
 
